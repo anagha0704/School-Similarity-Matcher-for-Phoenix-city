@@ -21,10 +21,10 @@ The dataset used in this project contains detailed information on schools in Pho
 - County and geographical data
   
 (The dataset was gathered manually, as an academic project, using reference:
-https://azreportcards.azed.gov/
-https://high-schools.com/directory/az/cities/phoenix/
-https://nces.ed.gov/GLOBALLOCATOR/
-https://www.usnews.com/education/best-high-schools
+- https://azreportcards.azed.gov/
+- https://high-schools.com/directory/az/cities/phoenix/
+- https://nces.ed.gov/GLOBALLOCATOR/
+- https://www.usnews.com/education/best-high-schools
 )
 
 ## Usage
