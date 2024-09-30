@@ -6,11 +6,10 @@ The School Similarity Matcher is a Python-based data analysis tool designed to h
 ### Features
 - Data Cleaning and Preprocessing: The data is cleaned and transformed, handling missing values, converting data types, and removing extraneous characters.
 - Similarity Analysis: Schools are compared using a variety of features, including:
--- Student Enrollment
--- Racial Demographics (e.g., Asian, Hispanic, White, etc.)
---Gender Breakdown
--- Lunch Program Eligibility
-- Visualization and Reporting: The project offers visual representation of similarity measures to assist users in understanding the results intuitively.
+- Student Enrollment
+- Racial Demographics (e.g., Asian, Hispanic, White, etc.)
+- Gender Breakdown
+- Lunch Program Eligibility
 
 ## Data
 The dataset used in this project contains detailed information on schools in Phoenix, AZ, including:
